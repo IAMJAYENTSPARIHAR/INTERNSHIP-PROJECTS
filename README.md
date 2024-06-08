@@ -1,0 +1,88 @@
+Internship at Unified Mentor Private Limited
+
+# Data Analytics Internship Projects
+
+Welcome to the repository showcasing the data analytics projects I worked on during my internship as a Data Analyst intern at Unified Mentor Private Limited. This repository includes a collection of PowerPoint presentations summarizing my analysis on various datasets. Below are the detailed descriptions of each project:
+
+## Projects
+
+### 1. Crop Production Analysis in India
+**Project Overview:**  
+This project analyzes crop production patterns in India. The analysis includes identifying key trends in crop yields, production volume, and regional variations. The aim is to provide insights into agricultural productivity and potential areas for improvement.
+
+**Key Features:**
+- Data preprocessing and cleaning
+- Exploratory data analysis (EDA)
+- Trend analysis of crop production over the years
+- Regional analysis of crop yields
+- Visualization of key findings using graphs and charts
+
+**Tools Used:**
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI for data visualization
+
+### 2. Employee Attrition and Performance Dashboard
+**Project Overview:**  
+This project focuses on analyzing employee attrition and performance within an organization. The goal is to identify factors contributing to employee turnover and to evaluate performance metrics.
+
+**Key Features:**
+- Data cleaning and transformation
+- Analysis of demographic and job-related factors affecting attrition
+- Performance metrics evaluation
+- Dashboard creation to visualize key attrition and performance indicators
+
+**Tools Used:**
+- Python (Pandas, Scikit-learn)
+- Power BI for interactive dashboards
+
+### 3. Heart Disease Diagnostic Analysis
+**Project Overview:**  
+This project aims to analyze diagnostic data related to heart disease. The objective is to identify key factors that can predict heart disease and to build a predictive model.
+
+**Key Features:**
+- Data exploration and preprocessing
+- Feature selection and engineering
+- Predictive modeling using machine learning algorithms
+- Evaluation of model performance
+- Visualization of diagnostic data and model results
+
+**Tools Used:**
+- Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+- Power BI for visual representation
+
+### 4. Introduction to Bird Strikes
+**Project Overview:**  
+This project involves the analysis of bird strike incidents reported in aviation. The aim is to understand the frequency, location, and impact of bird strikes to improve aviation safety measures.
+
+**Key Features:**
+- Data collection and preprocessing
+- Analysis of bird strike incidents over time
+- Geographic analysis of bird strike occurrences
+- Impact assessment on aviation operations
+- Visualization of analysis results
+
+**Tools Used:**
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI for comprehensive visualizations
+
+## Repository Structure
+- **/Crop_Production_Analysis_in_India**: Contains the PowerPoint presentation and data files related to the crop production analysis project.
+- **/Employee_Attrition_and_Performance_Dashboard**: Contains the PowerPoint presentation and data files related to the employee attrition and performance dashboard project.
+- **/Heart_Disease_Diagnostic_Analysis**: Contains the PowerPoint presentation and data files related to the heart disease diagnostic analysis project.
+- **/Introduction_to_Bird_Strikes**: Contains the PowerPoint presentation and data files related to the bird strikes analysis project.
+
+## How to Use
+1. Clone the repository to your local machine using:
+   ```bash
+   git clone https://github.com/yourusername/data-analytics-internship-projects.git
+   ```
+2. Navigate to the respective project directory to access the PowerPoint presentations and data files.
+
+## Contact
+For any inquiries or further information, please contact me at [your.email@example.com](mailto:your.email@example.com).
+
+Thank you for visiting this repository. I hope you find the projects informative and insightful!
+
+---
+
+Feel free to customize the repository URL, your email address, and any other details to suit your needs.
